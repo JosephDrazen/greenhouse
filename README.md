@@ -9,7 +9,4 @@ A greenhouse automation project.
   Luminosity Sensor | Measuring light fo Veg/Growth stages 
   12V power supply | 'Cause the Pi can't.
   
-## Roadmap 
 
-- refer to projects tab 
- 
